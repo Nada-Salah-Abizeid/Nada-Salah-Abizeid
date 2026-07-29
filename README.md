@@ -127,7 +127,7 @@ const nada = {
 
 <p align="center">
 
-<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/MyCash)">
+<a href="https://github.com/Nada-Salah-Abizeid/MyCash" target="_blank">
 <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge"/>
 </a>
 
@@ -156,7 +156,7 @@ const nada = {
 
 <p align="center">
 
-<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/Laravel-Project)">
+<a href="https://github.com/Nada-Salah-Abizeid/Laravel-Project "  target="_blank">
 <img src="https://img.shields.io/badge/View_Project-C084FC?style=for-the-badge"/>
 </a>
 
@@ -190,8 +190,8 @@ const nada = {
 
 <p align="center">
 
-<a href="[YOUR_REPO_FRONT-END](https://github.com/Nada-Salah-Abizeid/Exam_System_Angular)">
-  <a href="[YOUR_REPO_BACK-END]([ngular](https://github.com/Nada-Salah-Abizeid/Exam_System_NodeJS))">
+<a href="https://github.com/Nada-Salah-Abizeid/Exam_System_Angular"  target="_blank">
+  <a href="https://github.com/Nada-Salah-Abizeid/Exam_System_NodeJS"  target="_blank">
 <img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge"/>
 </a>
 
@@ -220,7 +220,7 @@ const nada = {
 
 <p align="center">
 
-<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/Node.js-Project)">
+<a href="https://github.com/Nada-Salah-Abizeid/Node.js-Project"  target="_blank">
 <img src="https://img.shields.io/badge/View_Project-F472B6?style=for-the-badge"/>
 </a>
 
@@ -248,7 +248,7 @@ const nada = {
 
 <p>
 
-<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/Cafeteria_PHP)">
+<a href="https://github.com/Nada-Salah-Abizeid/Cafeteria_PHP"  target="_blank">
 <img src="https://img.shields.io/badge/View_Project-DB2777?style=for-the-badge"/>
 </a>
 
