@@ -1,132 +1,293 @@
 <div align="center">
 
-# Hi there, I'm Nada Salah 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,40:00C9FF,100:FF61D2&text=Hi,%20I'm%20Nada%20Salah!&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&animation=fadeIn"/>
 
-### Full-Stack Software Engineer
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=900&color=9D4EDD&center=true&vCenter=true&width=900&lines=Laravel+Developer;Node.js+Backend+Developer;React+%7C+Angular+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+%F0%9F%9A%80"/>
 
-Building scalable web applications with **Laravel**, **Node.js**, **React**, **Angular**, and modern back-end technologies.
-
-<p>
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+#  About Me
 
-I'm a Full-Stack Software Engineer based in **Assiut, Egypt**.
+```ts
+const nada = {
+    location: "Assiut, Egypt 🇪🇬",
 
-I enjoy building scalable backend systems, responsive frontend applications, and solving real-world problems through clean, maintainable code.
+    role: "Full Stack Software Engineer",
 
-I completed the **Information Technology Institute (ITI) Open Source Application Development Diploma**, where I built multiple production-style projects using Agile methodologies, REST APIs, authentication, databases, GitHub, and Jira.
+    education: [
+        "B.Sc. Computer Science",
+        "ITI Open Source Application Development Diploma"
+    ],
 
-Currently I'm looking for opportunities as a:
+    backend: [
+        "Laravel",
+        "Node.js",
+        "NestJS",
+        "Express"
+    ],
 
-* Laravel Developer
-* Node.js Developer
-* Backend Developer
-* Full-Stack Developer
+    frontend: [
+        "React",
+        "Angular",
+        "Next.js"
+    ],
 
----
+    databases: [
+        "MySQL",
+        "MongoDB"
+    ],
 
-# 🚀 Tech Stack
+    cloud: [
+        "AWS",
+        "Docker"
+    ],
 
-### Backend
+    currentlyLearning: [
+        "System Design",
+        "Microservices",
+        "Cloud Architecture"
+    ],
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-
----
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-
----
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+    funFact: "I get excited about debugging the bug that everyone else gave up on 🐞✨"
+}
+```
 
 ---
 
-# 🌟 Featured Projects
+#  Tech Stack
 
-### 💰 MyCash
-
-AI-powered finance application featuring authentication, JWT, MongoDB, React, Node.js, Express, and Retrieval-Augmented Generation (RAG).
-
----
-
-### 💼 Wazzafny
-
-Job platform built with Laravel.
-
----
-
-### 📝 Exam System
-
-Online examination platform built using Angular, Express, Node.js, and MongoDB.
-
----
-
-### 🛒 E-Commerce API
-
-RESTful backend API using Express and MongoDB.
-
----
-
-### ☕ Cafeteria Website
-
-PHP & MySQL web application.
-
----
-
-# 📈 GitHub Stats
+##  Backend
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+##  Frontend
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [nada.salah.it@gmail.com](mailto:nada.salah.it@gmail.com)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,html,css"/>
+
+</p>
+
+---
+
+##  Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+---
+
+##  DevOps , Cloud & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github"/>
+
+</p>
+
+---
+
+#  Featured Projects
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+## 💰 MyCash
+
+> **AI-powered Personal Finance Platform**
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+✨ JWT Authentication
+
+🤖 AI + RAG Integration
+
+📊 Personal Finance Management
+
+🔐 Secure REST APIs
+
+<p align="center">
+
+<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/MyCash)">
+<img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💼 Wazzafny
+
+> **Laravel Job Portal**
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+🔐 Authentication
+
+📂 MVC Architecture
+
+💼 Job Listings
+
+⚡ Clean UI
+
+<p align="center">
+
+<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/Laravel-Project)">
+<img src="https://img.shields.io/badge/View_Project-C084FC?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📝 Exam System
+
+> **Online Examination Platform**
+
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+</p>
+
+📝 Online Exams
+
+👨‍🎓 Student Dashboard
+
+📈 Results Management
+
+🔗 REST APIs
+
+<p align="center">
+
+<a href="[YOUR_REPO_FRONT-END](https://github.com/Nada-Salah-Abizeid/Exam_System_Angular)">
+  <a href="[YOUR_REPO_BACK-END]([ngular](https://github.com/Nada-Salah-Abizeid/Exam_System_NodeJS))">
+<img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 E-Commerce API
+
+> **RESTful Backend API**
+
+<p>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+</p>
+
+🛍 Product Management
+
+🔐 Authentication
+
+📦 Orders
+
+⚡ REST APIs
+
+<p align="center">
+
+<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/Node.js-Project)">
+<img src="https://img.shields.io/badge/View_Project-F472B6?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+## ☕ Cafeteria Website
+
+> **PHP & MySQL Web Application**
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+🍽 Responsive Design • 🔐 Authentication • 📦 CRUD Operations • 👨‍💼 Admin Dashboard
+
+<p>
+
+<a href="[YOUR_REPO](https://github.com/Nada-Salah-Abizeid/Cafeteria_PHP)">
+<img src="https://img.shields.io/badge/View_Project-DB2777?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+---
+
+#  Let's Connect
+
+<p align="center">
+
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/nada-salah-abozeid/)">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:nada.salah.it@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+##  Thanks for stopping by!
 
-⭐ Feel free to explore my repositories and connect with me.
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:6C63FF,40:00C9FF,100:FF61D2"/>
 
 </div>
