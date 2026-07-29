@@ -191,8 +191,9 @@ const nada = {
 <p align="center">
 
 <a href="https://github.com/Nada-Salah-Abizeid/Exam_System_Angular"  target="_blank">
+  <img src="https://img.shields.io/badge/View_Project_Front-EC4899?style=for-the-badge"/>
   <a href="https://github.com/Nada-Salah-Abizeid/Exam_System_NodeJS"  target="_blank">
-<img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Project_Back-EC4899?style=for-the-badge"/>
 </a>
 
 </p>
@@ -220,7 +221,7 @@ const nada = {
 
 <p align="center">
 
-<a href="https://github.com/Nada-Salah-Abizeid/Node.js-Project"  target="_blank">
+<a href="https://github.com/Nada-Salah-Abizeid/Node-js-course"  target="blank">
 <img src="https://img.shields.io/badge/View_Project-F472B6?style=for-the-badge"/>
 </a>
 
@@ -268,7 +269,7 @@ const nada = {
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/nada-salah-abozeid/)">
+<a href="https://www.linkedin.com/in/nada-salah-abozeid/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
