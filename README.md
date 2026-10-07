@@ -13,7 +13,7 @@
 
 ```ts
 const nada = {
-    location: "Assiut, Egypt 🇪🇬",
+    location: "Egypt 🇪🇬",
 
     role: "Full Stack Software Engineer",
 
